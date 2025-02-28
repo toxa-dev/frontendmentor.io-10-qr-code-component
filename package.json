@@ -1,6 +1,9 @@
 {
+  "scripts": {
+    "build": "tailwindcss build ./styles/input.css -o ./styles/output.css"
+  },
   "dependencies": {
-    "@tailwindcss/cli": "^4.0.8",
-    "tailwindcss": "^4.0.8"
+    "@tailwindcss/cli": "^4.0.9",
+    "tailwindcss": "^4.0.9"
   }
 }
