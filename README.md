@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Learning to use Tailwind
+Improved TailWind skills
 
 ## Author
 
